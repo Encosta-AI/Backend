@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.db
+*.joblib
+backend/.admin_senha
+.env
+backend/fotos/
